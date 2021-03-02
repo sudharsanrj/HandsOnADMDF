@@ -1,0 +1,6 @@
+C:\Users\sudha\source\repos\testingHandson\CalcLibrary1\bin\Debug\CalcLibrary1.dll
+C:\Users\sudha\source\repos\testingHandson\CalcLibrary1\bin\Debug\CalcLibrary1.pdb
+C:\Users\sudha\source\repos\testingHandson\CalcLibrary1\obj\Debug\CalcLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\testingHandson\CalcLibrary1\obj\Debug\CalcLibrary1.dll
+C:\Users\sudha\source\repos\testingHandson\CalcLibrary1\obj\Debug\CalcLibrary1.pdb
+C:\Users\sudha\source\repos\testingHandson\CalcLibrary1\obj\Debug\CalcLibrary1.csprojAssemblyReference.cache
