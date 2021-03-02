@@ -1,0 +1,7 @@
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csprojAssemblyReference.cache
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\sudha\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb

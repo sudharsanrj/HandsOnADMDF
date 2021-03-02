@@ -1,0 +1,7 @@
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sudha\source\repos\Asnyc\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
