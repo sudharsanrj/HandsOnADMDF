@@ -1,0 +1,16 @@
+ string phone = "+91-964-234-4577";
+            string pattern = "^\\+[1-9][0-9]-[1-9][0-9]{2}-[0-9]{3}-[0-9]{4}$";
+            Console.WriteLine(Regex.IsMatch(phone, pattern));
+            phone = "(91)-984-234-4567";
+            pattern = "^\\([1-9][0-9]\\)-[1-9][0-9]{2}-[0-9]{3}-[0-9]{4}$";
+            Console.WriteLine(Regex.IsMatch(phone, pattern));
+            string email = "a#1@cts.com";
+            pattern = "(?=.*[#!&$*])[a-zA-Z0-9#!&$*]+\\@[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}";
+            Console.WriteLine(Regex.IsMatch(email, pattern));
+            string website = "www.cognizantEbox.cn";
+            pattern = "^www\\.[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,3}";
+            Console.WriteLine(Regex.IsMatch(website, pattern));
+            string password = "abcd #@23";
+            pattern = "^.{6,12}$";//min 6 max 12 any character
+            Console.WriteLine(Regex.IsMatch(password, pattern));
+            password = "aGHJc1d34"; ////min 6 max 12 with atleast on
