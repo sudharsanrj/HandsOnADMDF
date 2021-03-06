@@ -1,0 +1,7 @@
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Users\sudha\source\repos\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

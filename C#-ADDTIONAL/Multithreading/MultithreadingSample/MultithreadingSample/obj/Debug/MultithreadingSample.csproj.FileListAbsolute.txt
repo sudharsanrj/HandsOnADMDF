@@ -1,0 +1,6 @@
+C:\Users\sudha\source\repos\MultithreadingSample\MultithreadingSample\bin\Debug\MultithreadingSample.exe.config
+C:\Users\sudha\source\repos\MultithreadingSample\MultithreadingSample\bin\Debug\MultithreadingSample.exe
+C:\Users\sudha\source\repos\MultithreadingSample\MultithreadingSample\bin\Debug\MultithreadingSample.pdb
+C:\Users\sudha\source\repos\MultithreadingSample\MultithreadingSample\obj\Debug\MultithreadingSample.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\MultithreadingSample\MultithreadingSample\obj\Debug\MultithreadingSample.exe
+C:\Users\sudha\source\repos\MultithreadingSample\MultithreadingSample\obj\Debug\MultithreadingSample.pdb
