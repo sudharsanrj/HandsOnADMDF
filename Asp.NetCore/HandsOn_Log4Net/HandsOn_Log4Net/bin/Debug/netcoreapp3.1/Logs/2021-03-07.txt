@@ -1,0 +1,24 @@
+2021-03-07 10:12:35,583 [1] ERROR App  
+ Starting Host Application 
+ 
+2021-03-07 10:12:36,082 [5] ERROR App  
+ Exception : My Custom Exception 
+ 
+2021-03-07 19:00:17,937 [1] ERROR App  
+ Starting Host Application 
+ 
+2021-03-07 19:00:22,391 [4] ERROR App  
+ Exception : My Custom Exception 
+ 
+2021-03-07 20:06:29,104 [1] ERROR App  
+ Starting Host Application 
+ 
+2021-03-07 20:06:35,633 [4] ERROR App  
+ Exception : My Custom Exception 
+ 
+2021-03-07 20:31:15,382 [1] ERROR App  
+ Starting Host Application 
+ 
+2021-03-07 20:31:16,910 [4] ERROR App  
+ Exception : My Custom Exception 
+ 
