@@ -1,0 +1,78 @@
+﻿@model IEnumerable<AspNetCorePartialView.Models.Employee>
+
+<h3> Displaying Employee using PartialView</h3>
+<br />
+
+<h1>Employees List</h1>
+
+<div class="Row">
+
+
+    <span class="col-md-4">
+        Name
+    </span>
+
+
+    <span class="col-md-4">
+        Salary
+    </span>
+
+
+
+</div>
+
+
+@foreach (var item in Model)
+{
+@if (@item.IsPermanent)
+{
+
+
+<div class="Row">
+
+
+    <span class="col-md-4">
+
+        <b> @item.Name</b>
+
+    </span>
+
+
+    <span class="col-md-4">
+
+
+        <b> @item.Salary</b>
+    </span>
+</div> }
+                else
+                {
+<div class="Row">
+
+
+    <span class="col-md-4">
+        @item.Name
+    </span>
+
+
+    <span class="col-md-4">
+        @item.Salary
+    </span>
+</div>}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
