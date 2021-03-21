@@ -1,0 +1,14 @@
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\bin\Debug\PracticeCaseStudy.exe.config
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\bin\Debug\PracticeCaseStudy.exe
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\bin\Debug\PracticeCaseStudy.pdb
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\obj\Debug\PracticeCaseStudy.exe
+C:\Users\sudha\Downloads\ADMDF_hands_on-master\ADMDF_hands_on-master\Stage_3\Case Studies\CaseStudy_DesignPatterns\Practice\PracticeCaseStudyAbstractFactory\obj\Debug\PracticeCaseStudy.pdb
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\bin\Debug\PracticeCaseStudy.exe.config
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\bin\Debug\PracticeCaseStudy.exe
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\bin\Debug\PracticeCaseStudy.pdb
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\obj\Debug\PracticeCaseStudy.exe
+C:\Users\sudha\source\repos\Design-Pattern\practice study - design pattern\PracticeCaseStudyAbstractFactory\obj\Debug\PracticeCaseStudy.pdb
